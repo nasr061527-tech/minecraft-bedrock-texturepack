@@ -1,0 +1,13 @@
+{
+  "resource_pack_name": "Vibrant Minecraft",
+  "textures": [
+    {
+      "name": "atlas.0",
+      "num_mip_levels": 0
+    },
+    {
+      "name": "atlas.1",
+      "num_mip_levels": 0
+    }
+  ]
+}
