@@ -1,0 +1,25 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "Vibrant Minecraft - A beautiful, optimized texture pack for Bedrock Edition. Featuring enhanced textures, vibrant colors, and excellent performance on mobile devices.",
+    "name": "Vibrant Minecraft",
+    "uuid": "a1b2c3d4-e5f6-47a8-b9c0-d1e2f3a4b5c6",
+    "version": [1, 0, 0]
+  },
+  "modules": [
+    {
+      "description": "Resource Pack Module",
+      "type": "resources",
+      "uuid": "f1e2d3c4-b5a6-4798-9a8b-7c6d5e4f3a2b",
+      "version": [1, 0, 0]
+    }
+  ],
+  "metadata": {
+    "authors": ["Vibrant Minecraft Team"],
+    "generated_with": {
+      "host": "GitHub Copilot",
+      "version": "1.0"
+    },
+    "license": "CC0"
+  }
+}
